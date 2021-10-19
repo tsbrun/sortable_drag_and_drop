@@ -30,3 +30,7 @@
      border: 1px solid black;
      cursor: move;
  }
+
+ .draggable.dragging {
+     opacity: .5;
+ }
